@@ -4,7 +4,7 @@
     1. Criar um repositório no **GitHub** chamado **desafio07_nivel04** :white_check_mark:
     2. Clonar localmente o repositório :white_check_mark:
         - OBS: Para cada task concluida, faça o commit. 
-    3. Criar o **composer.json** inicial e configurar o **autoload** da **psr-4** defindo um namespace padrão para a src. :black_square_button:
+    3. Criar o **composer.json** inicial e configurar o **autoload** da **psr-4** defindo um namespace padrão para a src. :white_check_mark:
     4. Criar na raiz do projeto o **index.php** para testar as classes. Além disso, carregue o auload para facilitar os imports das classes da src. :black_square_button:
     5. Criar a pasta **src** onde ficará os **modulos** e a camada de **dominio** para cada módulo. Por Exemplo: **Financeiro/Domain/Entity** :black_square_button: 
     6. Na src, desenvolver o módulo que vai representar a parte **Academica**. Como requisito para esse exercicio deve conter a classe **Aluno** como entidade de dominio. :black_square_button:
