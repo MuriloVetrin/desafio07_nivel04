@@ -1,0 +1,9 @@
+{
+    "name": "murilo.veetorazo/projeto",
+    "autoload": {
+        "psr-4": {
+            "MuriloVeetorazo\\Projeto\\": "src/"
+        }
+    },
+    "require": {}
+}
